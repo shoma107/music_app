@@ -24,3 +24,5 @@ gem 'pg' , '~> 0.18'
 end
 
 gem 'rspotify'
+
+gem 'httpclient'
